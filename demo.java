@@ -4,6 +4,9 @@ class demo
 	{
 		System.out.println("Welcome to the world of Git");
 		//COmments gr Git
+	//Comments for diferences
+	Method()
 	}
+
 }
 
